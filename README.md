@@ -9,6 +9,7 @@
 	<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff"/> <!-- JQuery -->
 	<br>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     	<br>
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white"/>
