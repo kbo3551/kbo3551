@@ -4,7 +4,7 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">        
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-	<img src="https://img.shields.io/badge/PostgreSQL-ff69b4?style=flat&logo=PostgreSQL&logoColor=white"/> <!-- PostGrees -->
+	<img src="https://img.shields.io/badge/PostgreSQL-3458eb?style=flat&logo=PostgreSQL&logoColor=white"/> <!-- PostGrees -->
 	<br>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
     
