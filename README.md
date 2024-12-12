@@ -9,6 +9,7 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-3458eb?style=flat&logo=PostgreSQL&logoColor=white"/> <!-- PostgreSQL -->
 	<img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=oracle&logoColor=4169E1"/> <!-- oracle -->
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff"/> <!-- MySQL -->
+	<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mysql&logoColor=ffffff"/> <!-- MySQL -->
 	<br>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
