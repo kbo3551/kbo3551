@@ -3,10 +3,12 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">  <!-- HTML5 -->
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <!-- Spring -->
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <!-- Spring Boot -->
-	<img src="https://img.shields.io/badge/PostgreSQL-3458eb?style=flat&logo=PostgreSQL&logoColor=white"/> <!-- PostgreSQL -->
-	<img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=oracle&logoColor=4169E1"/> <!-- oracle -->
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"/> <!-- Javascript -->
 	<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff"/> <!-- JQuery -->
+	<br>
+	<img src="https://img.shields.io/badge/PostgreSQL-3458eb?style=flat&logo=PostgreSQL&logoColor=white"/> <!-- PostgreSQL -->
+	<img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=oracle&logoColor=4169E1"/> <!-- oracle -->
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff"/> <!-- MySQL -->
 	<br>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
