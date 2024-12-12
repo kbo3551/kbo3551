@@ -18,6 +18,7 @@
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=4169E1"/>
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 </div>
 <br>
 <div align="center">
