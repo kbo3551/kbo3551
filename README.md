@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-1EBC8F?style=for-the-badge&logo=Java&logoColor=white" />
     
 </div>
 
