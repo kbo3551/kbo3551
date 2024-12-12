@@ -7,7 +7,6 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-3458eb?style=flat&logo=PostgreSQL&logoColor=white"/> <!-- PostgreSQL -->
 	<br>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-
     	<br>
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 </div>
