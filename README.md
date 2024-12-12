@@ -16,6 +16,7 @@
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     	<br>
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=4169E1"/>
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=subversion&logoColor=white"/>
 </div>
 <br>
