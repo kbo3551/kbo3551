@@ -32,11 +32,11 @@
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/kbo3551"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/kbo3551"
+  width="600"
+  height="300"
+/>
 </a>
   
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
