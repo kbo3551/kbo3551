@@ -13,8 +13,8 @@
 	<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mysql&logoColor=ffffff"/> <!-- MySQL -->
 	<img src="https://img.shields.io/badge/SQL Server-eb347d?style=flat&logoColor=ffffff"/> <!-- SQL Server -->
 	<br>
-	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+	<img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&&logo=&logoColor=white"/> <!-- VSCode -->
+	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=ffffff"/> <!-- Eclipse -->
     	<br>
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=4169E1"/>
