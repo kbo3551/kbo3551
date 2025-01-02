@@ -33,12 +33,20 @@
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kbo3551?pet-id=659218913284206100"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<!-- <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/kbo3551"
   width="100%"
   height="300"
 />
-</a>
+</a> -->
   
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kbo3551&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
