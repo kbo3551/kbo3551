@@ -31,14 +31,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kbo3551&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
     </a>
 </div>
-
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/kbo3551?pet-id=659218913284206100"
+    src="https://render.gitanimals.org/lines/kbo3551?pet-id=655286092753921657"
     width="600"
     height="120"
   />
 </a>
+
   
 <!-- <a href="https://github.com/devxb/gitanimals">
 <img
