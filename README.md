@@ -15,6 +15,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=ffffff"/> <!-- Eclipse -->
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&&logo=&logoColor=white"/> <!-- VSCode -->
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&&logo=&logoColor=red"/> <!-- IntelliJ -->
 	<!-- <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>  IntelliJ IDEA -->
     	<br>
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
