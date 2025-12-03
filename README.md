@@ -25,7 +25,7 @@
 </div>
 <br>
 
- <div align="center">
+<!-- <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbo3551&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kbo3551&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
     </a>
 </div>
-
+-->
 <br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kbo3551&utm_content=farm">
 <img
